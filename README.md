@@ -1,7 +1,5 @@
 # flutter_counter_app
 
-A new Flutter project.
-
 <details open> 
   <summary><h2>🧩 Languages & Tools</h2></summary>
     
@@ -11,6 +9,7 @@ A new Flutter project.
   </a>
 </p>
 </details>
+
 ## 🔗 Links
 
 <a href="https://www.linkedin.com/in/juandebandi/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-231b2e?style=for-the-badge&logoColor=F8D866&logo=LinkedIn"/></a>
@@ -18,4 +17,3 @@ A new Flutter project.
 <a href="mailto:juudinidev@gmail.com">
 <img src="https://custom-icon-badges.demolab.com/badge/-Email-231b2e?style=for-the-badge&logoColor=F8D866&logo=gmail" alt="Email">
 </a>
-
